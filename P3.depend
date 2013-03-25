@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1363731459 source:/home/ben/P3/main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<vector>
+	"typedefs.h"
+
+1363731608 /home/ben/P3/typedefs.h
+

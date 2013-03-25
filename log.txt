@@ -1,0 +1,46 @@
+token=BEGIN TAG      type=0 tag name=html      on line #1 at charpos=1
+token=NEWLINE        type=5 tag name=\n        on line #1 at charpos=7
+token=SPACE STRING   type=4 tag name=          on line #2 at charpos=1
+token=WORD           type=3 tag name=This      on line #2 at charpos=4
+token=SPACE STRING   type=4 tag name=          on line #2 at charpos=9
+token=WORD           type=3 tag name=is        on line #2 at charpos=11
+token=SPACE STRING   type=4 tag name=          on line #2 at charpos=14
+token=WORD           type=3 tag name=an        on line #2 at charpos=16
+token=SPACE STRING   type=4 tag name=          on line #2 at charpos=19
+token=WORD           type=3 tag name=HTML      on line #2 at charpos=21
+token=SPACE STRING   type=4 tag name=          on line #2 at charpos=26
+token=WORD           type=3 tag name=file.     on line #2 at charpos=28
+token=NEWLINE        type=5 tag name=\n        on line #2 at charpos=34
+token=SPACE STRING   type=4 tag name=          on line #3 at charpos=1
+token=BEGIN TAG      type=0 tag name=head      on line #3 at charpos=4
+token=NEWLINE        type=5 tag name=\n        on line #3 at charpos=10
+token=SPACE STRING   type=4 tag name=          on line #4 at charpos=1
+token=END TAG        type=1 tag name=head      on line #4 at charpos=4
+token=NEWLINE        type=5 tag name=\n        on line #4 at charpos=11
+token=SPACE STRING   type=4 tag name=          on line #5 at charpos=1
+token=BEGIN TAG      type=0 tag name=body      on line #5 at charpos=4
+token=NEWLINE        type=5 tag name=\n        on line #5 at charpos=10
+token=SPACE STRING   type=4 tag name=	         on line #6 at charpos=1
+token=WORD           type=3 tag name=hHeader   on line #6 at charpos=7
+token=NEWLINE        type=5 tag name=\n        on line #6 at charpos=19
+token=SPACE STRING   type=4 tag name=	         on line #7 at charpos=1
+token=NEWLINE        type=5 tag name=\n        on line #7 at charpos=9
+token=SPACE STRING   type=4 tag name=	         on line #8 at charpos=1
+token=BEGIN TAG      type=0 tag name=p         on line #8 at charpos=3
+token=NEWLINE        type=5 tag name=\n        on line #8 at charpos=6
+token=SPACE STRING   type=4 tag name=		        on line #9 at charpos=1
+token=WORD           type=3 tag name=lorem     on line #9 at charpos=4
+token=SPACE STRING   type=4 tag name=          on line #9 at charpos=10
+token=WORD           type=3 tag name=ipsum     on line #9 at charpos=12
+token=NEWLINE        type=5 tag name=\n        on line #9 at charpos=18
+token=SPACE STRING   type=4 tag name=	         on line #10 at charpos=1
+token=END TAG        type=1 tag name=p         on line #10 at charpos=3
+token=NEWLINE        type=5 tag name=\n        on line #10 at charpos=7
+token=SPACE STRING   type=4 tag name=	         on line #11 at charpos=1
+token=EMPTY TAG      type=2 tag name=br        on line #11 at charpos=3
+token=NEWLINE        type=5 tag name=\n        on line #11 at charpos=8
+token=SPACE STRING   type=4 tag name=          on line #12 at charpos=1
+token=END TAG        type=1 tag name=body      on line #12 at charpos=4
+token=NEWLINE        type=5 tag name=\n        on line #12 at charpos=11
+token=END TAG        type=1 tag name=html      on line #13 at charpos=1
+token=NEWLINE        type=5 tag name=\n        on line #13 at charpos=8
